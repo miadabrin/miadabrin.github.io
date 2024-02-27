@@ -22,17 +22,24 @@ title: Miad Abrin's personal website
 domain: "miadabrin.com"
 email: miadabrin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Miad Abrin's journey into SRE world
+  A journey into the darker side of the SRE world
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://miadabrin.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: miadabrin	
 github_username: miadabrin 
 
 # Build settings
-remote_theme: pages-themes/tactile@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: ""
+      type: "assets/images"
+    values:
+      image: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
