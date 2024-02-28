@@ -4,6 +4,7 @@
 
 layout: default
 ---
+<h1> List of Posts </h1>
 {% for post in site.posts %}
 <li>
   <a href="{{ post.url }}">{{ post.title }}</a>
