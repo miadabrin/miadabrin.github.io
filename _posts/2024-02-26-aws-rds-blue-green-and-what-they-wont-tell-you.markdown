@@ -20,7 +20,7 @@ In most cases the replication lag goes down quicker than the EBS hydration finis
 
 Also as a sidenote make sure you take a snapshot of the database before you start the blue/green, that can make sure your snapshot is new enough to be used and have less replication lag going forward to catch up with newest changes.
 
-### what should you do
+### What you should do
 The best approach is touching the hot part of your database before hand on the green instances. Normally that is the top 20% of the newest records of your database but it is not always the same across all workloads. You will need to find out what is going to be accessed more often in your workload and be fine with some records being a bit slow to access for the first time (which is fine in most cases).
 
 ## Server Identity Change and breaking CDC tools
