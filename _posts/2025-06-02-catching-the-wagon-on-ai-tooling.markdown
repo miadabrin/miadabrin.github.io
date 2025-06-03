@@ -7,7 +7,7 @@ categories: IDE, AI
 ![Dragon](/assets/images/wagon-catching.png)
 
 # Why I am writing this
-Over the last 12 months or so, I feel like there is a widening divide between AI believers and non-AI believers. Interestingly a lot of people have not changed their mind all this time even though a lot has changed. My goal is not to convince anyone. I mostly want to help folks that already feel it have a path towards not falling behind.
+Over the last 12 months or so, I feel like there is a widening divide between AI believers and non-AI believers. Interestingly a lot of people have not changed their mind all this time even though a lot has changed. My goal is not to convince anyone but to help folks to have a path towards not falling behind.
 
 
 # What AI tooling was
