@@ -11,7 +11,7 @@ Over the last 12 months or so, I feel like there is a widening divide between AI
 
 
 # What AI tooling was
-First of all I have been eyeing the AI editors + models progress almost since its inception. I have tried to integrate them into my workflow mostly because I if I know something can be automated, there is no way in hell I am going to do that manually.
+I have been eyeing the AI editors + models progress almost since its inception. I have tried to integrate them into my workflow mostly because I if I know something can be automated, there is no way in hell I am going to do that manually.
 
 When editors like Cursor came out, they were pure hype ( not going to sugarcoat this ). I also despised the idea of someone forking VSCode and adding some fluff on top without any real value.
 
