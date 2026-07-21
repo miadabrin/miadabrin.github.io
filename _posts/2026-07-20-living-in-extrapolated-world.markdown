@@ -28,7 +28,7 @@ In a way AI models extrapolate reality to meet some end. Most of the time that e
 # The Environment We All Live in 
 Let's say you are diagnosing a niche production issue in an environment you don't know. Maybe it is a service you deployed for a customer and getting prod access is hard or simply you don't know enough about their stack or their code.
 
-In the old world, Someone would describe the problem because they say the symptoms themselves and then they went ahead and did some observations. They drew some conclusions on what they thing is happening and they gave it to you.
+In the old world, Someone would describe the problem because they see the symptoms themselves and then they went ahead and did some observations. They drew some conclusions on what they thing is happening and they gave it to you.
 
 You would then go ahead and form some hypothesis and then run some experiments to try and find which one is true. You would find a result that would be convincing enough to point the exact problem. Going to the solution could be the easy part of the story sometimes.
 
