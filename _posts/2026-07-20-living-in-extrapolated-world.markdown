@@ -34,7 +34,7 @@ You would then go ahead and form some hypothesis and then run some experiments t
 
 But let's run the same scenario today. Someone sees a symptom somewhere. They ask their AI agent why that might happen. They form some opinions based on that and then they give the results back to the team. A lot of time that person doesn't bother with actual observations and those are replaced by extrapolation of the original problem. Now you have "Would could be wrong" instead of "What is wrong"
 
-Then someone on your team runs their agent to run their procedures against those extrapolated issue. They will form some extrapolated solution based on that context and then they try to implement a solution on top of that. 
+Then someone on your team runs their agent to run their procedures against that extrapolated issue. They will form some extrapolated solution based on that context and then they try to implement a solution on top of that. 
 
 The results are basically very different. Either we hit the jackpot and the issue is resolved OR we are now working with people with their minds set on false primitives. You as a person that actually solves the problem would need to do extra work to bring back people to factory settings. To guide them through the actual observations (try to dig them out) and then guide them again through step by step analysis rooted in reality. That's a lot more work!
 
